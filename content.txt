@@ -1,0 +1,8 @@
+091bc2da8695da9b09502d3667bee1b0
+
+https://api.themoviedb.org/3
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=091bc2da8695da9b09502d3667bee1b0
+
+https://image.tmdb.org/t/p/w500/
